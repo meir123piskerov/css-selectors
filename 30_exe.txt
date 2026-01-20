@@ -1,0 +1,38 @@
+part 1
+
+1. 100
+2. 20
+3. 3
+4. 15
+5. 11
+6. 111
+7. 2
+8. 112
+9. 113
+10. 1
+
+part 2 
+
+1: #title {color : red;}
+2: p.note { font-size: 20px; }
+3: #box { background: blue; }
+4: a.primary { color: green; }
+5: #intro { font-size: 18px; }
+6: .header { color: red; }
+7: #list { border: 3px solid red; }
+8: #app p { color: blue; }
+9: #save { background: red; }
+10: h3.subtitle { color: pink; }
+
+part 3
+
+1: #wrapper
+2: h1.title
+3: div span
+4: #post .content p
+5: lu.menu li
+6: #main h2
+7: #news .highlight .title h3
+8: .top-menu ul#links li
+9: div#inner .text p
+10: #profile .header h4
